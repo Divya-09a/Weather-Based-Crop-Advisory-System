@@ -4,6 +4,20 @@
 
 There are several ways of editing your application.
 
+**🤖  Use AI Tools**
+You can use AI-powered tools (like ChatGPT, Claude, etc.) to:
+
+Understand the project structure
+Generate or modify code
+Fix errors quickly
+Improve UI/UX and performance
+
+Simply copy your code into the AI tool and give prompts like:
+
+"Explain this code"
+"Fix this error"
+"Convert this into a full-stack feature"
+
 **Use OnSpace**
 
 Simply visit the [OnSpace Project]() and start prompting.
@@ -12,7 +26,7 @@ Changes made via OnSpace will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in OnSpace.
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -56,6 +70,15 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+
+| Tool         | Use Case                                               |
+| ------------ | ------------------------------------------------------ |
+| **VS Code**  | Full development, coding, debugging                    |
+| **GitHub**   | Store code, version control, collaboration             |
+| **AI Tools** | Code help, explanation, bug fixing, faster development |
+
+
 ## How can I deploy this project?
 
-Simply open [OnSpace]() and click on Share -> Publish.
+You can easily deploy this project using Vercel, which is fast and perfect for React + Vite apps.
+
